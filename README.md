@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EshaTheAnalyst&label=Profile%20views&color=0e75b6&style=flat" alt="Esha-Naz" /> </p>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently a student of **BS Computer Science**
 
-- 👨‍💻 All of my projects are available at [https://github.com/EshaTheAnalyst](https://github.com/EshaTheAnalyst)
+- 👨‍💻 All of my projects are available at [https://github.com/esha-naz](https://github.com/esha-naz)
 
 - 📫 You can reach me via E-Mail: **naz.esha08@gmail.com**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/esha-naz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahuldkjain" height="30" width="40" /></a>
-<a href="https://instagram.com/_eshanaz_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rahul_dk_jain" height="30" width="40" /></a>
+<a href="https://instagram.com/eshanaz.me" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rahul_dk_jain" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
