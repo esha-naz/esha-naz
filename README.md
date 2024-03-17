@@ -1,4 +1,4 @@
-![Esha Naz](https://github.com/EshaTheAnalyst/EshaTheAnalyst/assets/150829632/f7ee2fcd-8e24-4bbe-985d-1fa04c0e26f4)
+<!--![Esha Naz](https://github.com/EshaTheAnalyst/EshaTheAnalyst/assets/150829632/f7ee2fcd-8e24-4bbe-985d-1fa04c0e26f4)-->
 
 <h1 align="center">Hello World! 👋</h1>
 <img align="right" alt="coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
